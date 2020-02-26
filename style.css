@@ -1,0 +1,18 @@
+.header{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.header ul{
+    border: 1px solid yellow;
+    width: 70%;
+    padding: 20px;
+    text-align: center;
+}
+
+.header ul li{
+    border: 1px solid blue;
+    display: inline;
+    padding: 10px;
+}
